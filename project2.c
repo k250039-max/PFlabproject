@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
 int diceroller()
 {
     int x=((rand()%6)+1);
